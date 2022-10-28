@@ -2,10 +2,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-      int x = 5000;
-      int y = 20;
-      int i = x / y;
-        System.out.println(x / y);
+        int ticketPrice = 5000;
+        int rubForOneMiles = 20;
+        int i = ticketPrice / rubForOneMiles;
+        System.out.println(ticketPrice / rubForOneMiles);
 
     }
 }
